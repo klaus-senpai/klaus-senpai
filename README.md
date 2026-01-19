@@ -54,7 +54,7 @@
 class NeuralNetwork:
     def __init__(self):
         self.skills = {
-            'languages': ['Python', 'JavaScript', 'TypeScript', 'Rust'],
+            'languages': ['Python', 'JavaScript', 'TypeScript', 'C#'],
             'frameworks': ['React', 'Node.js', 'FastAPI', 'TensorFlow'],
             'cloud': ['AWS', 'Docker', 'Kubernetes', 'CI/CD'],
             'databases': ['PostgreSQL', 'MongoDB', 'Redis'],

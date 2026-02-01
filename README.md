@@ -48,20 +48,6 @@ stack = {
 └────────────────────────────────────────┘
 ```
 
----
-
-## 📊 ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=klaus-senpai&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&hide_title=true" alt="Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=klaus-senpai&theme=dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" alt="Streak" />
-
-</div>
-
----
-
 ## 💻 CODE
 
 ```rust

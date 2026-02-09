@@ -21,8 +21,8 @@
 
 ```python
 stack = {
-    'languages': ['Python', 'JavaScript', 'TypeScript', 'C', 'Rust'],
-    'backend': ['Node.js', 'FastAPI', 'Express'],
+    'languages': ['Python', 'JavaScript', 'TypeScript', 'C#', 'Elixir'],
+    'backend': ['ASP.NET', 'Node.js', 'FastAPI', 'Express', 'Phoenix'],
     'frontend': ['React', 'Next.js'],
     'databases': ['PostgreSQL', 'MongoDB', 'Redis'],
     'tools': ['Docker', 'Git', 'Linux', 'AWS']
